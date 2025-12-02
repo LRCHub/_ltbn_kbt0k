@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Véranda",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-02T08:11:42.675021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Veranda",
+      "artist": "Cillie Barnes",
+      "has_synced": true,
+      "path": "select/01_Veranda_Cillie_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Veranda (RAC Mix)",
+      "artist": "Cillie Barnes",
+      "has_synced": true,
+      "path": "select/02_Veranda_(RAC_Mix)_Cillie_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vrouw Op De Veranda",
+      "artist": "BLØF",
+      "has_synced": false,
+      "path": "select/03_Vrouw_Op_De_Veranda_BLØF.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grande véranda (Unplugged)",
+      "artist": "Odezenne",
+      "has_synced": true,
+      "path": "select/04_Grande_véranda_(Unplugged)_Odezenne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deux kangourous devant la véranda (Bobino 1969) [Live]",
+      "artist": "Frédérik Mey",
+      "has_synced": false,
+      "path": "select/05_Deux_kangourous_devant_la_véranda_(Bobino_1969)_[Live]_Frédérik_Mey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vrouw Op De Veranda",
+      "artist": "Bløf",
+      "has_synced": true,
+      "path": "select/06_Vrouw_Op_De_Veranda_Bløf.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La fille de la véranda",
+      "artist": "Julien Clerc",
+      "has_synced": true,
+      "path": "select/07_La_fille_de_la_véranda_Julien_Clerc.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Veranda",
+      "artist": "BIM",
+      "has_synced": true,
+      "path": "select/08_Veranda_BIM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Véranda",
+      "artist": "Tele",
+      "has_synced": true,
+      "path": "select/09_Véranda_Tele.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "veranda",
+      "artist": "Maison book girl",
+      "has_synced": false,
+      "path": "select/10_veranda_Maison_book_girl.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deux kangourous devant la véranda",
+      "artist": "Frédérik Mey",
+      "has_synced": false,
+      "path": "select/11_Deux_kangourous_devant_la_véranda_Frédérik_Mey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Cool Veranda",
+      "artist": "Midnite",
+      "has_synced": false,
+      "path": "select/12_A_Cool_Veranda_Midnite.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vrouw Op De Veranda",
+      "artist": "Bløf",
+      "has_synced": true,
+      "path": "select/13_Vrouw_Op_De_Veranda_Bløf.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Badai Veranda",
+      "artist": "Rangga Pranendra",
+      "has_synced": true,
+      "path": "select/14_Badai_Veranda_Rangga_Pranendra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Veranda",
+      "artist": "THORNAPPLE",
+      "has_synced": true,
+      "path": "select/15_Veranda_THORNAPPLE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Veranda",
+      "artist": "yonige",
+      "has_synced": true,
+      "path": "select/16_Veranda_yonige.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Veranda",
+      "artist": "Kenji Minogue",
+      "has_synced": true,
+      "path": "select/17_Veranda_Kenji_Minogue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Véranda",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_Véranda_Tele.txt"
+    }
+  ]
+}
